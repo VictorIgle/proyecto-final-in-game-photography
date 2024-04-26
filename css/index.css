@@ -193,7 +193,7 @@ body{
     width: 30rem;
 
     opacity: 1;
-    filter: contrast(120%);
+    filter: contrast(105%);
 }
 
 @media(max-width:700px){
