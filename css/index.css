@@ -93,10 +93,6 @@ body{
     
 }
 
-.Header-nav{
-    
-}
-
 .Header-nav.isActive{
     height: 40vh;
     display: flex;
